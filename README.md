@@ -14,3 +14,4 @@ Welcome to my data analytics portfolio. This repository showcases some of the wo
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/javiera-quezada)
 - 📧 Email: jbquezada.s@gmail.com
+- [Portfolio](https://drive.google.com/file/d/1SwVTvJQ05PlFbTu70twsX9r4Buzqthqt/view?usp=drive_link) 
